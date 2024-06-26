@@ -10,6 +10,7 @@ This repository demonstrates how to use OpenAI's GPT-4 model to extract structur
 - Processes multiple emails and ensures all are included in the final output.
 - Generates a markdown table with the extracted information.
 - Handles missing data and includes default values for consistency.
+- Chat GPT 4 is asked to explain the Machine Learning techniques, if any, that it used to extract the entities from the emails.
 
 ## Requirements
 
@@ -66,3 +67,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - All contributors who helped make this project better.
 
 ---
+![Chat GPT Cat](images/chat_gpt_cat.png)
