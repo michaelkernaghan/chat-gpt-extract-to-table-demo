@@ -1,0 +1,123 @@
+Hi Tom/Niall,
+
+See below shipment:
+
+| PO    | Part No.                                         | Pnl  |
+|-------|--------------------------------------------------|------|
+| 43875 | Catamount 8L RI Rev 1 & Catamount 8L REStripline | 5    |
+| 43881 | PT-0037229 Rev A PT-0038573 Rev A                | 10   |
+| 43884 | Dual Sensor V2.0                                 | 10   |
+| 43882 | Panel_CAM81204140_01                             | 200  |
+| 43885 | DA0961 SMTPA PCB V1P3                            | 50   |
+
+DHL: 7322345656 
+
+Vincent Lim
+
+Sales Manager
+<Attachment: Commercial Invoice 2269A>
+
+---EMAIL_SEPARATOR---
+
+From pcb design to pcb assembly, your most trustworthy partner
+
+COMMERCIAL INVOICE Date: 2024/4/27
+No.: 2024-1475-B004CI
+To: Shipco Circuits Ltd. From: King Credie Technology Limited
+Attn: Niall/Tom Attn: Spring
+Tel: 353 26 41314 Tel: 0755-23110700
+Fax: 353 26 42083 Fax: 0755-23110701
+
+EORI Number: IE6362175L
+Post Code: P12YD25
+Departure: RM601, Block 5-A, Tongtai Times Center, Fuyong Town, Shenzhen City, 518103, China
+Deliver to: BOWL ROAD, MACROOM, CO. CORK P12YD25, Ireland (DHL: 954403906)
+
+PO No. Part No. Qty(pnl) Unit Price Tooling Freight Amount
+PO43840 7564-C Sensor(10115) 500 0.120 88.00 0.00 148.00
+
+Remark: Printed circuit board Total(USD): 148.00
+
+Country of manufacture: China
+HS Code: 8534009000
+
+Yours sincerely,
+KING CREDIE TECHNOLOGY LIMITED
+Spring sales05@kingcredie.com
+Mobile: 135 3812 2055
+
+---EMAIL_SEPARATOR---
+
+Shipping invoice number: 20230623
+
+To: Shipco Circuits Ltd. Date: 2023/06/23
+Bowl Road,
+Macroom,
+Co.Cork,
+Ireland
+
+Tel: +353 26 41314 Delivery terms: EXW HK by DHL
+Fax: +353 26 42083 (at your DHL account no: 954403906)
+Attn: Niall Kelleher Payment terms: Net 30 days from invoice date
+
+Bare printed circuit boards
+
+Order No. Description REF No. Quantity Unit price Amount
+43212 F26510 Matcha vP1.2.0-20221221 1074LE1152 56 PCS 3 168.00
+
+Total: USD 168.000
+
+Emily
+Authorized signature
+
+---EMAIL_SEPARATOR---
+
+Account statement
+Loman Tech Limited             Tel: +852 3543 0977
+Kaiser Center                  Fax: +852 3543 0978
+NO 18 Center Street
+Sai Ying Pun
+Hong Kong
+
+Shipco Circuits Ltd.           Payment terms: 30 days net after invoice date
+Bowl Road                      Currency: USD
+Macroom,
+Co. Cork,
+Ireland
+
+Date: 2/1/2024
+
+Item   Date        Invoice No.   Due         Currency   Debit    Credit
+1      1/26/2024   20240125      2/25/2024   USD        535.000
+
+Closing                                     535.000
+Total Amount                                535.000
+
+Emily
+Authorized signature
+
+---EMAIL_SEPARATOR---
+
+Account statement
+Loman Tech Limited             Tel: +852 3543 0977
+Kaiser Center                  Fax: +852 3543 0978
+NO 18 Center Street
+Sai Ying Pun
+Hong Kong
+
+Shipco Circuits Ltd.           Payment terms: 30 days net after invoice date
+Bowl Road                      Currency: USD
+Macroom,
+Co. Cork,
+Ireland
+
+Date: 5/1/2018
+
+Item   Date        Invoice No.   Due         Currency   Debit    Credit
+1      4/24/2018   20180050      5/24/2018   USD        500.000
+
+Closing                                     500.000    0.000
+Total Amount                                500.000
+
+Apple Chan
+Authorized signature
